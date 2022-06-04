@@ -5,7 +5,7 @@ This is a hello world nodejs application that has continuous integration and con
 
 ### Continous integration
 
-Available test in the respository is linting test using Eslint and this is the only test ran in the CI stage. I made use of actions/checkout@v3 for this.
+Available test in the respository is a linting test using Eslint and this is the only test ran in the CI stage. I made use of actions/checkout@v3 for this.
 
 ### Continous deployment
 
