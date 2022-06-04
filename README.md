@@ -1,7 +1,7 @@
 
 ## About
 
-This is a hello world nodejs application that has continuous integration and continuous deployment pipeline setup using GitHub actions.
+This is a hello world nodejs application that has continuous integration and continuous deployment pipeline setup using GitHub actions. 
 
 ### Continous integration
 
@@ -10,6 +10,8 @@ Available test in the respository is a linting test using Eslint and this is the
 ### Continous deployment
 
 The codebase is deployed to heroku. Access to the heroku application for deployment was made possible using heroku api keys, heroku account's email address and heroku application's name. I made use of akhileshns/heroku-deploy@v3.12.12 for this.
+
+Live site: https://hello-world-bit.herokuapp.com/
 
 ## Security vulnerabilities in my approach
 Possible security vulnerabilities are:
