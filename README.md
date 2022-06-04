@@ -9,7 +9,7 @@ Available test in the respository is a linting test using Eslint and this is the
 
 ### Continous deployment
 
-The codebase is deployed to heroku. Access to the heroku application for deployment was made possible using heroku api keys, heroku account's email address and heroku application's name.
+The codebase is deployed to heroku. Access to the heroku application for deployment was made possible using heroku api keys, heroku account's email address and heroku application's name. I made use of akhileshns/heroku-deploy@v3.12.12 for this.
 
 ## Security vulnerabilities in my approach
 Possible security vulnerabilities are:
